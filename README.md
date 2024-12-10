@@ -16,11 +16,11 @@ Result Display: At the end of the quiz, it displays You've completed the Quiz! a
 
 # Technologies Used
 
-13.9% HTML: Structure of the app.
+14.2% HTML: Structure of the app.
 
-30.9% CSS: Styling the app with responsive design.
+40.4% CSS: Styling the app with responsive design.
 
-55.2% JavaScript: Logic for quiz functionality, including dynamic question and option insertion, timer, and scoring.
+45.4% JavaScript: Logic for quiz functionality, including dynamic question and option insertion, timer, and scoring.
 ss
 # File Structure
 
