@@ -65,5 +65,5 @@ let questions = [
       "Word Document File",
     ],
   },
-  // Duplicate the object declaration and initialization above for more questions
+  
 ];
